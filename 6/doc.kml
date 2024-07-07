@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>JAVIER DIAZ.kmz</name>
+	<StyleMap id="msn_grn-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-pushpin">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-pushpin0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-pushpin1">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-pushpin0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-pushpin1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>JAVIER DIAZ</name>
+		<Placemark>
+			<name>ANGOSTURA (EA50-110059)</name>
+			<Camera>
+				<longitude>-72.78323128714699</longitude>
+				<latitude>-44.79011116328566</latitude>
+				<altitude>149918.7432294407</altitude>
+				<heading>10.78437574799988</heading>
+				<tilt>0.2908202119371061</tilt>
+				<roll>5.520741873315691</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.88821666666668,-44.628425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMPARO GRANDE (EA24-110068)</name>
+			<Camera>
+				<longitude>-72.42154053774837</longitude>
+				<latitude>-44.52625378188382</latitude>
+				<altitude>222157.4945606134</altitude>
+				<heading>6.542189909806958</heading>
+				<tilt>1.328314105214004</tilt>
+				<roll>1.698391267231197</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.91188611111112,-44.77211111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AVELLANO (EA33-110217)</name>
+			<Camera>
+				<longitude>-72.70408799172831</longitude>
+				<latitude>-44.4490642251556</latitude>
+				<altitude>280195.6582303973</altitude>
+				<heading>20.30578385680093</heading>
+				<tilt>0.1090546812393829</tilt>
+				<roll>15.10103000331253</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.18161944444445,-44.05810833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAHIA ANITA (EA26-110742)</name>
+			<Camera>
+				<longitude>-72.87863972994046</longitude>
+				<latitude>-44.41265457782637</latitude>
+				<altitude>205621.254713066</altitude>
+				<heading>22.90553752741032</heading>
+				<tilt>0.09407133399451763</tilt>
+				<roll>17.57814565961119</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.02759166666667,-44.90045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CANALAD 5 (EA42-110205)</name>
+			<Camera>
+				<longitude>-72.65229963843417</longitude>
+				<latitude>-44.78177587726541</latitude>
+				<altitude>149075.5310171583</altitude>
+				<heading>10.69217642801252</heading>
+				<tilt>0.290820171389914</tilt>
+				<roll>5.521634623194512</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.15393611111112,-44.55901666666666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CANALAD 6 (EA30-110595)</name>
+			<LookAt>
+				<longitude>-73.45760654284339</longitude>
+				<latitude>-45.30616477626351</latitude>
+				<altitude>0</altitude>
+				<heading>6.31744390190164</heading>
+				<tilt>2.471783166310966</tilt>
+				<range>152999.8048681132</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.30042222222222,-44.56002222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CANAL REFUGIO (EA34-110270)</name>
+			<Camera>
+				<longitude>-73.05346896922336</longitude>
+				<latitude>-44.74238292432355</latitude>
+				<altitude>136359.0165752119</altitude>
+				<heading>59.94316302176472</heading>
+				<tilt>0.03437947103631049</tilt>
+				<roll>54.48949014180432</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.12590277777777,-44.01683333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CATALINA (EA21-110131)</name>
+			<LookAt>
+				<longitude>-73.06467918276628</longitude>
+				<latitude>-44.16174438499361</latitude>
+				<altitude>0</altitude>
+				<heading>5.669083045245783</heading>
+				<tilt>6.800767245999499</tilt>
+				<range>80996.46564377456</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.96759343959158,-44.81594638951182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESTERO BLANCO (EA43-110132)</name>
+			<Camera>
+				<longitude>-72.67170902378474</longitude>
+				<latitude>-44.70177142863243</latitude>
+				<altitude>160207.6605863452</altitude>
+				<heading>6.437690019812819</heading>
+				<tilt>1.26012237700733</tilt>
+				<roll>1.256737734713496</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.87854166666666,-44.65800833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GRAFFER (EA17-110069)</name>
+			<Camera>
+				<longitude>-72.96093673366761</longitude>
+				<latitude>-44.62243017044741</latitude>
+				<altitude>118986.2030510118</altitude>
+				<heading>6.166275750083607</heading>
+				<tilt>2.02751859064012</tilt>
+				<roll>0.7692913782546501</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.93452500000001,-44.78605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESTERO SOTO (EA16-110060)</name>
+			<LookAt>
+				<longitude>-73.03149039030184</longitude>
+				<latitude>-44.86933749608747</latitude>
+				<altitude>0</altitude>
+				<heading>5.67776923170246</heading>
+				<tilt>6.716009424681498</tilt>
+				<range>83052.22951180724</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.71748333333333,-44.57263611111112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LA LEONA (EA36-110214)</name>
+			<Camera>
+				<longitude>-73.00440768144844</longitude>
+				<latitude>-45.00092746587608</latitude>
+				<altitude>429759.7026369838</altitude>
+				<heading>6.055166380010522</heading>
+				<tilt>2.758036813029884</tilt>
+				<roll>0.7399482620490165</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.10944722222222,-44.046825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARTA (EA27-110071)</name>
+			<Camera>
+				<longitude>-72.09735136022995</longitude>
+				<latitude>-44.73386156746101</latitude>
+				<altitude>312342.3404418825</altitude>
+				<heading>87.41288429329956</heading>
+				<tilt>0.03806443664222052</tilt>
+				<roll>82.76308066928006</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.99960277777778,-44.83698888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MELIMOYU (EA47-110740)</name>
+			<Camera>
+				<longitude>-72.56119547200515</longitude>
+				<latitude>-45.11782194404206</latitude>
+				<altitude>703780.7045694373</altitude>
+				<heading>7.764223386006835</heading>
+				<tilt>0.7877607311624236</tilt>
+				<roll>2.81006022937892</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.11676666666666,-44.05858055555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PUNTA GONZALEZ (110222)</name>
+			<LookAt>
+				<longitude>-73.07434519853219</longitude>
+				<latitude>-44.06307591710678</latitude>
+				<altitude>0</altitude>
+				<heading>5.711778075956651</heading>
+				<tilt>6.006854949337969</tilt>
+				<range>10979.7089465221</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.11816388888889,-44.17273888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PUNTA GANSO (EA22-110703)</name>
+			<Camera>
+				<longitude>-73.31489541775112</longitude>
+				<latitude>-45.33548046567114</latitude>
+				<altitude>39312.9198074854</altitude>
+				<heading>45.35983124728088</heading>
+				<tilt>0.08999674648516243</tilt>
+				<roll>40.09494514514886</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.76869166666667,-44.75832222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SUR PUYUHUAPI (EA23-110839)</name>
+			<LookAt>
+				<longitude>-73.0258251987805</longitude>
+				<latitude>-44.90142321418366</latitude>
+				<altitude>0</altitude>
+				<heading>5.673758038537911</heading>
+				<tilt>6.637908761711008</tilt>
+				<range>7755.307500890259</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.15523333333334,-44.93857222222222,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

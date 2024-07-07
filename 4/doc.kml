@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>EDUARDO ALMONACID.kmz</name>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin80">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin28">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin29">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>EDUARDO ALMONACID</name>
+		<open>1</open>
+		<Placemark>
+			<name>BARQUILLO (MEF03-101296)</name>
+			<LookAt>
+				<longitude>-73.40870198460057</longitude>
+				<latitude>-44.0856694735786</latitude>
+				<altitude>0</altitude>
+				<heading>6.056004471863923</heading>
+				<tilt>0</tilt>
+				<range>260323.7539739388</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.97009166666666,-41.56678055555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOLADOS (MEF04-110454)</name>
+			<LookAt>
+				<longitude>-74.04303357645281</longitude>
+				<latitude>-44.2080057127837</latitude>
+				<altitude>0</altitude>
+				<heading>6.504697442147478</heading>
+				<tilt>0</tilt>
+				<range>70122.33370138358</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-74.18728132728874,-44.34708379499614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CONCOTO (EA48 - 110466)</name>
+			<LookAt>
+				<longitude>-73.41091437806027</longitude>
+				<latitude>-45.06432357700901</latitude>
+				<altitude>0</altitude>
+				<heading>9.921291604847475</heading>
+				<tilt>0</tilt>
+				<range>782964.2246890033</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.80610223544559,-44.16266594868573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CANAL PEREZ NORTE (EA41 - 110523)</name>
+			<LookAt>
+				<longitude>-73.47229361254558</longitude>
+				<latitude>-44.20998058206119</latitude>
+				<altitude>0</altitude>
+				<heading>9.967340227407588</heading>
+				<tilt>12.15661399413064</tilt>
+				<range>129137.3369848746</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.84892965730377,-44.1489795156504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELENA (EA40 - 110510)</name>
+			<LookAt>
+				<longitude>-73.66264040611169</longitude>
+				<latitude>-44.37537723159244</latitude>
+				<altitude>0</altitude>
+				<heading>2.473835431242323e-11</heading>
+				<tilt>0.04096887055946561</tilt>
+				<range>176756.802169702</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.81243651820868,-44.25456383309982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GUAITECAS 2 (EA45 - 110704)</name>
+			<LookAt>
+				<longitude>-73.67181310679791</longitude>
+				<latitude>-44.20366700155908</latitude>
+				<altitude>0</altitude>
+				<heading>0.006423479028908584</heading>
+				<tilt>0.04018608590356017</tilt>
+				<range>51514.15022067275</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.87449459438216,-43.92117833020095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HUYAR (MEF10-101370)</name>
+			<LookAt>
+				<longitude>-73.95952937359083</longitude>
+				<latitude>-44.74922620501887</latitude>
+				<altitude>0</altitude>
+				<heading>6.489141464562967</heading>
+				<tilt>0</tilt>
+				<range>55022.77511160856</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.54889595836417,-42.38871423326269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISLA PELADA (MEF11-100991)</name>
+			<LookAt>
+				<longitude>-72.21316655860443</longitude>
+				<latitude>-44.39926341932584</latitude>
+				<altitude>0</altitude>
+				<heading>5.197240611873093</heading>
+				<tilt>0</tilt>
+				<range>814018.0473852312</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.49835198329117,-42.06296980894489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISLA SANCHEZ (EA20 - 110824)</name>
+			<LookAt>
+				<longitude>-73.32438960380064</longitude>
+				<latitude>-44.21578826135688</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2362714080776287</heading>
+				<tilt>0.02648888101001066</tilt>
+				<range>190855.5779853438</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.57099306162769,-44.12651970061554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JORGE (MEF01-110813)</name>
+			<LookAt>
+				<longitude>-72.6793338275485</longitude>
+				<latitude>-43.46258361152297</latitude>
+				<altitude>0</altitude>
+				<heading>5.587514746921246</heading>
+				<tilt>0</tilt>
+				<range>472237.8383750838</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-74.02980833333334,-44.77855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARGARITA (MEF02-110550)</name>
+			<LookAt>
+				<longitude>-72.26519322015248</longitude>
+				<latitude>-43.64385829795538</latitude>
+				<altitude>0</altitude>
+				<heading>5.280003838842893</heading>
+				<tilt>0</tilt>
+				<range>1162506.486345703</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-74.2436777923062,-44.20239594779286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAY (MEF04-110513)</name>
+			<LookAt>
+				<longitude>-74.04303357645281</longitude>
+				<latitude>-44.2080057127837</latitude>
+				<altitude>0</altitude>
+				<heading>6.504697442147478</heading>
+				<tilt>0</tilt>
+				<range>70122.33370138358</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-74.24048534297556,-44.23850435971563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PLAYA BONITA (MEF04-110592)</name>
+			<LookAt>
+				<longitude>-73.02602764008623</longitude>
+				<latitude>-43.67975332620801</latitude>
+				<altitude>0</altitude>
+				<heading>5.799223394220485</heading>
+				<tilt>0</tilt>
+				<range>338249.8244450889</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-74.28680994771183,-44.21140644181638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOLEDAD (MEF07-110384)</name>
+			<LookAt>
+				<longitude>-72.30554565969693</longitude>
+				<latitude>-43.25480064345529</latitude>
+				<altitude>0</altitude>
+				<heading>5.325895452907184</heading>
+				<tilt>3.940864252870145</tilt>
+				<range>726541.5981095443</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.84544444444444,-45.45985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TEUQUELIN (MEF05-101308)</name>
+			<LookAt>
+				<longitude>-72.83600362385046</longitude>
+				<latitude>-43.9301669485649</latitude>
+				<altitude>0</altitude>
+				<heading>5.546047289063742</heading>
+				<tilt>0</tilt>
+				<range>256652.4317627695</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.25378611111111,-42.46639166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VALVERDE 4 (EA39 - 110944)</name>
+			<LookAt>
+				<longitude>-73.69175052245099</longitude>
+				<latitude>-44.23816538240371</latitude>
+				<altitude>0</altitude>
+				<heading>0.02049282399782679</heading>
+				<tilt>1.080966279910133</tilt>
+				<range>189662.4146118938</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.76656811971615,-44.3328358764551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VALVERDE 6 (EA46 - 110397)</name>
+			<LookAt>
+				<longitude>-73.49604021208499</longitude>
+				<latitude>-44.27240770089266</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1154270075015107</heading>
+				<tilt>0.8894058580592626</tilt>
+				<range>125598.0501977244</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.9121869493225,-44.28229642438635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VERDUGO 3 (EA49 - 110941)</name>
+			<LookAt>
+				<longitude>-73.49604021208499</longitude>
+				<latitude>-44.27240770089266</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1154270075015107</heading>
+				<tilt>0.8894058580592626</tilt>
+				<range>125598.0501977244</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.72338275722761,-44.15910646841645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CHALACAYEC (MEF10-110799)</name>
+			<LookAt>
+				<longitude>-73.4544306183502</longitude>
+				<latitude>-44.800188692718</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5333019736581947</heading>
+				<tilt>0</tilt>
+				<range>343448.2869587158</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.77079722222223,-44.98188611111112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LLAGUEPE (MEF14-101679)</name>
+			<LookAt>
+				<longitude>-70.1179639430229</longitude>
+				<latitude>-42.00476159139802</latitude>
+				<altitude>0</altitude>
+				<heading>-2.800545672714701</heading>
+				<tilt>0</tilt>
+				<range>711663.1219157457</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.47595833333334,-41.72168333333334,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

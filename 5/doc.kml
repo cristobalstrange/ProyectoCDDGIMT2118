@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>INGRID SALINAS.kmz</name>
+	<StyleMap id="msn_ltblu-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ltblu-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ltblu-pushpin">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin0">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>INGRID SALINAS</name>
+		<Placemark>
+			<name>ACANTILADA (ANT03-110046)</name>
+			<Camera>
+				<longitude>-72.60617843201557</longitude>
+				<latitude>-44.87350868365534</latitude>
+				<altitude>427023.7452869626</altitude>
+				<heading>14.63520242976735</heading>
+				<tilt>2.307768319557128</tilt>
+				<roll>17.15256956343597</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.88335555555557,-45.40734444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CARMEN (ANT09-110954)</name>
+			<Camera>
+				<longitude>-71.76345413674812</longitude>
+				<latitude>-45.5265636666689</latitude>
+				<altitude>496038.0610801146</altitude>
+				<heading>69.00502354745444</heading>
+				<tilt>0.05865473895003443</tilt>
+				<roll>64.80583464106537</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.85338333333333,-45.44939722222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>COLORADA (EA31-110928)</name>
+			<Camera>
+				<longitude>-73.11870744414556</longitude>
+				<latitude>-45.94294771996937</latitude>
+				<altitude>117579.4300398518</altitude>
+				<heading>-0.9680187280270792</heading>
+				<tilt>30.87536992484663</tilt>
+				<roll>1.354239367790469</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.35350833333332,-45.36459722222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISLOTE BONITO (ANT06-110453)</name>
+			<Camera>
+				<longitude>-73.11991436475009</longitude>
+				<latitude>-45.35729366821197</latitude>
+				<altitude>22740.32087675379</altitude>
+				<heading>5.793394101436966</heading>
+				<tilt>4.917874438574073</tilt>
+				<roll>0.6035660396370545</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.23471854601745,-45.2985822220971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JESUS 3 (EA28-110865)</name>
+			<Camera>
+				<longitude>-73.11991436475009</longitude>
+				<latitude>-45.35729366821197</latitude>
+				<altitude>22740.32087675379</altitude>
+				<heading>5.793394101436966</heading>
+				<tilt>4.917874438574073</tilt>
+				<roll>0.6035660396370545</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.90263333333334,-44.74624166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PUNTA MANO (ANT05-110579)</name>
+			<Camera>
+				<longitude>-73.01289534330076</longitude>
+				<latitude>-45.23234838201921</latitude>
+				<altitude>192251.9875350616</altitude>
+				<heading>7.182825029272595</heading>
+				<tilt>1.441308981895465</tilt>
+				<roll>2.068269141221308</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.89832777777778,-45.42166388888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PUNTA MORRO (ANT08-110509)</name>
+			<Camera>
+				<longitude>-72.86739022463922</longitude>
+				<latitude>-45.51252190777569</latitude>
+				<altitude>105534.2032881772</altitude>
+				<heading>64.70075788717702</heading>
+				<tilt>0.06568772149999166</tilt>
+				<roll>59.81046612528846</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.27772777777777,-45.31605555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PUNTA PETISO (ANT07-110453)</name>
+			<Camera>
+				<longitude>-72.80956549435676</longitude>
+				<latitude>-45.46943195111956</latitude>
+				<altitude>13569.76808588843</altitude>
+				<heading>5.863204211171682</heading>
+				<tilt>3.312773584487794</tilt>
+				<roll>0.9187242346743242</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.19697222222223,-45.29048888888888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PUNTILLA (ANT04-110047)</name>
+			<Camera>
+				<longitude>-72.86292869419233</longitude>
+				<latitude>-45.47408037824574</latitude>
+				<altitude>26087.09053116279</altitude>
+				<heading>3.257526317344199</heading>
+				<tilt>6.940075941921582</tilt>
+				<roll>5.654495667310857</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ltblu-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-72.85519166666666,-45.38740833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RODRIGUEZ (EA15-110823)</name>
+			<Camera>
+				<longitude>-71.1054635717562</longitude>
+				<latitude>-45.43223076981944</latitude>
+				<altitude>775285.4614867674</altitude>
+				<heading>78.37142371820194</heading>
+				<tilt>0.6847522548123036</tilt>
+				<roll>81.91169040828136</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ltblu-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-73.50121111111112,-45.372325,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
